@@ -4,7 +4,6 @@
   "description": "react project to test components",
   "main": "index.js",
   "scripts": {
-//    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack && webpack-dev-server --inline --hot"
   },
   "author": "",
