@@ -6,6 +6,8 @@ export default class Slider extends React.Component {
         super( props );
     }
 
+    // props such as min, max, step etc...
+
     render() {
         return (
             <div className="slider">
