@@ -1,11 +1,11 @@
 import React from 'react';
-
+require('./slider.css');
 
 export default class Slider extends React.Component {
     constructor( props ) {
         super( props );
         this.state = {
-            
+
         }
     }
 
