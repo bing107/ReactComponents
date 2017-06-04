@@ -5,7 +5,14 @@ require('./app.css');
 
 const App = props => (
     <div className="canvas">
-        <Slider />
+        <Slider
+            // value={}
+            // onChange={}
+            // disabled={}
+            // min={}
+            // max={}
+            // step={}
+            />
     </div>
 );
 
